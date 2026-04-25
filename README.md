@@ -13,6 +13,8 @@ No problema, a representação pictográfica maia foi adaptada para os seguintes
 
 * <b>'*'</b> (Asterisco): Representa o valor 0 (também atua como condição de parada na leitura de dados).
 
+![Tabela de Conversão Maia](img/pictographicToDigital.png)
+
 # Lógica e Regras
 O sistema maia é posicional e baseado em potências de 20.
 
